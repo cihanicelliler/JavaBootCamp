@@ -21,6 +21,7 @@ public class Main {
 		
 		for (Product product : products) {
 			System.out.println(product.name);
+			System.out.println(product.name);
 		}
 		
 		System.out.println(products.length);
